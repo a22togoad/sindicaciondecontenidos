@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bienvenidos a mi GitHub Pages</title>
+        <link>https://jubilant-happiness-567c5e62.pages.github.io/</link>
+        <description>En esta página encontrarás los diversos contenidos que hemos ido realizando en LLMM durante el presente curso 2022-2023</description>
+        <copyright>Adrián Torres Gómez - Todos los derechos reservados</copyright>
+        <category>Información</category>
+        <webMaster>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</webMaster>
+        <pubDate>Fri, 21 Oct 2022 07:59:44 GMT</pubDate>
+        <language>ES-es</language>
+        <item>
+            <title>Florentino no confía en Carvajal y va con todo por su sustituto</title>
+            <link>https://www.fichajes.net/noticias/florentino-no-confia-carvajal-todo-sustituto-20230117.html</link>
+            <description>El Real Madrid busca una nueva opción para el lateral derecho</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Fri, 21 Oct 2022 07:59:44 GMT</pubDate>
+            <guid>https://www.fichajes.net/noticias/florentino-no-confia-carvajal-todo-sustituto-20230117.html</guid>
+            <enclosure url="https://www.fichajes.net/files/styles/epsa_horizontal_thumbail/public/carvajal_2.jpg"
+            length="12345"
+            type="image/jpg" />
+        </item>
+        <item>
+            <title>Frankie Coiro ('Aftersun') quiere un papel en 'Stranger Things' con una "muerte dramática"</title>
+            <link>https://www.20minutos.es/cinemania/series/frankie-coiro-aftersun-quiere-un-papel-en-stranger-things-con-una-muerte-dramatica-5092873/</link>
+            <description>La joven actriz desea participar en la serie aportando una muerte icónica para esta</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Fri, 21 Oct 2022 07:59:44 GMT</pubDate>
+            <guid>https://www.20minutos.es/cinemania/series/frankie-coiro-aftersun-quiere-un-papel-en-stranger-things-con-una-muerte-dramatica-5092873/</guid>
+            <enclosure url="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/01/17/stranger-aftersun.jpeg"
+            length="12345"
+            type="image/jpeg" />
+        </item>
+        <item>
+            <title>Piden casi 40 años de prisión para un casteller de Barcelona por abusar de 9 niñas de la 'colla'</title>
+            <link>https://www.20minutos.es/noticia/5092868/0/piden-casi-40-anos-de-prision-para-un-casteller-de-barcelona-por-abusar-de-9-ninas-de-la-colla/</link>
+            <description>La fiscalía pide casi 40 años de prisión para un exmimbro de los Castellers de Barcelona por haber abusado sexualmente de 9 menores de edad entre 2014 y 2019.</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Fri, 21 Oct 2022 07:59:44 GMT</pubDate>
+            <guid>https://www.20minutos.es/noticia/5092868/0/piden-casi-40-anos-de-prision-para-un-casteller-de-barcelona-por-abusar-de-9-ninas-de-la-colla/</guid>
+            <enclosure url="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/05/04/castellers-en-barcelona.jpeg"
+            length="12345"
+            type="image/jpeg" />
+        </item>
+        <item>
+            <title>'The Last of Us' marca un antes y un después en la adaptación de videojuegos: las referencias son lo menos importante en una serie maravillosa que amplía el original</title>
+            <link>https://www.espinof.com/series-de-ficcion/the-last-of-us-marca-antes-despues-adaptacion-videojuegos-referencias-importante-serie-maravillosa-que-amplia-original</link>
+            <description>La escena de apertura de 'The Last of Us' se muestra como una declaración de intenciones que, en cierto modo, confirma que se han cumplido las promesas de ampliar el universo del videojuego y aportar contexto extra para quienes ya lo disfrutaron en su momento.</description>
+            <author>ad22togoad@iesgrancapitan.org (Adrián Torres Gómez)</author>
+            <pubDate>Fri, 21 Oct 2022 07:59:44 GMT</pubDate>      
+            <guid>https://www.espinof.com/series-de-ficcion/the-last-of-us-marca-antes-despues-adaptacion-videojuegos-referencias-importante-serie-maravillosa-que-amplia-original</guid>
+            <enclosure url="https://i.blogs.es/75dbc1/captura-de-pantalla-2023-01-16-a-las-17.17.42/1366_2000.jpeg"
+            length="12345"
+            type="image/jpeg" />
+        </item>
+    </channel>
+</rss>
